@@ -58,7 +58,9 @@ As shown on Tanks and Temples [leaderboard](https://www.tanksandtemples.org/lead
 
 <img src="doc/blendMVS_results.png" width="800"> 
 
-The corresponding point cloud is also provided: [BlendedMVS result](https://drive.google.com/file/d/1vXCNPjcnIzRQIFQU7X-DPANckOqFFPEM/view?usp=sharing).
+The corresponding point cloud is provided: [BlendedMVS result](https://drive.google.com/file/d/1vXCNPjcnIzRQIFQU7X-DPANckOqFFPEM/view?usp=sharing).
+
+The [rest reconstructed point clouds](https://drive.google.com/file/d/1FQs7wgaHnnxj25FMqfaIlZltiauP-f3G/view?usp=sharing) of the validation dataset of BlendedMVS are also provided. 
 
 # Citation
 If you find this project useful for your research, please cite:
