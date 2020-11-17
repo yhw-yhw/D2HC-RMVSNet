@@ -30,7 +30,7 @@ Create a log folder and a model folder in wherever you like to save the training
 * Run ``./eval_dtu.sh`` for DTU, or ``./eval_tanks.sh`` for Tanks and Temples.
 
 ### Fusion
-* Run ``fusion_dtu.py`` for DTU, or ``fusion_tanks.py`` for Tanks and Temples.
+* Run ``./fusion.sh`` for DTU or Tanks and Temples.
 
 ## Benchmark results
 
