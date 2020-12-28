@@ -77,4 +77,4 @@ If you find this project useful for your research, please cite:
 
 ### 2020 December 28
 
-Add [pretrained model](https://drive.google.com/file/d/1LJjCRPm31i_neCfD0Quj5z03udmqDG0Z/view?usp=sharing) on blendedMVS.
+Add [pretrained model](https://drive.google.com/file/d/1LJjCRPm31i_neCfD0Quj5z03udmqDG0Z/view?usp=sharing) on BlendedMVS.
