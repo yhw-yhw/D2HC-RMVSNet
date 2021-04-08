@@ -25,8 +25,8 @@ Create a log folder and a model folder in wherever you like to save the training
 
 ### Testing
 * Download our [pretrained model](https://drive.google.com/file/d/1YWhEn6YoT2G53XhWvxj3dPr4trYoeVe-/view?usp=sharing).
-* Set ``TEST_DATA_FOLDER``.
-* Set ``MODEL_FOLDER`` to ``ckpt`` and ``model_ckpt_index`` to ``checkpoint_list``.
+* Set ``DTU_TESTING`` path or ``TP_TESTING`` path for testing in ``env.sh``.
+* Set ``MODEL_FOLDER`` to ``ckpt`` and ``model_ckpt_index`` to ``checkpoint_list`` to choose pretrained model.
 * Run ``./eval_dtu.sh`` for DTU, or ``./eval_tanks.sh`` for Tanks and Temples.
 
 ### Fusion
